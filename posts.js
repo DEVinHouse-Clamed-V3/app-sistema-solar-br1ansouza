@@ -11,7 +11,7 @@ export const posts = [
         user: 'garfield_1997',
         image: 'https://media.tenor.com/U28V2bPGlgUAAAAe/gato-sorrindo.png',
         likes: 420,
-        caption: 'Nada como viajar 12 horas de avião para apreciar um café igual ao de casa.',
+        caption: 'its friday!',
     },
     {
         id: '2',
